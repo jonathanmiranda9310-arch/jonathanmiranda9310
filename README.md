@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou Jonathan Miranda
 
-Sou desenvolvedor focado em tecnologia, desenvolvimento de sistemas e criação de soluções digitais. Tenho experiência prática com projetos web, backend, integração de APIs, análise de dados e desenvolvimento de plataformas.
+### Desenvolvedor | Backend | Frontend | APIs | Análise de Dados | Cybersecurity
 
-Atualmente venho desenvolvendo projetos como o **Examine AI**, uma plataforma de estudos voltada para a área da saúde, com recursos como paciente virtual, flashcards, dashboard, feed de estudos e funcionalidades com inteligência artificial.
+Sou desenvolvedor focado em tecnologia, desenvolvimento de sistemas e criação de soluções digitais. Tenho experiência prática com projetos web, backend, integração de APIs, análise de dados e desenvolvimento de plataformas educacionais.
+
+Atualmente desenvolvo projetos como o **Examine AI**, uma plataforma de estudos voltada para a área da saúde, com recursos como paciente virtual, flashcards, dashboard, feed de estudos e funcionalidades com inteligência artificial.
 
 ---
 
@@ -10,55 +12,63 @@ Atualmente venho desenvolvendo projetos como o **Examine AI**, uma plataforma de
 
 ### Front-end
 
-* HTML
-* CSS
-* JavaScript
-* React
-* Next.js
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 
 ### Back-end
 
-* Python
-* FastAPI
-* Java
-* PHP
-* C
-* C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+### Banco de Dados e Tempo Real
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
+
+### Ferramentas e IDEs
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+### Sistemas e Cyber
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge\&logo=hackthebox\&logoColor=green)
+![Data Analysis](https://img.shields.io/badge/Análise_de_Dados-2E8B57?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
+
+---
+
+## 📂 Projeto em destaque
+
+### Examine AI
+
+Plataforma de estudos para estudantes da área da saúde, com foco em aprendizado prático e interativo.
+
+**Principais funcionalidades:**
+
+* Paciente virtual com IA
+* Flashcards
+* Dashboard de estudos
+* Histórico de desempenho
+* Feed para compartilhamento de estudos
+* Sistema de login
+* Integração com backend
 * APIs REST
-* WebSocket
-* Redis
-
-### Banco de Dados
-
-* SQL
-* PostgreSQL
-
-### Análise de Dados
-
-* Análise de dados
-* Manipulação e interpretação de informações
-* Organização de dados para tomada de decisão
-
----
-
-## 🛠️ IDEs e ferramentas que sei utilizar
-
-* Visual Studio Code
-* IntelliJ IDEA
-* Arduino IDE
-* Postman
-* Git
-* GitHub
-
----
-
-## 🐧 Sistemas, infraestrutura e cyber
-
-* Linux
-* Noções de Cybersecurity
-* Integração de APIs
-* Testes de rotas e requisições
-* Deploy e organização de projetos
+* Recursos em tempo real com WebSocket
+* Redis para suporte a funcionalidades assíncronas e tempo real
 
 ---
 
@@ -70,47 +80,19 @@ Atualmente venho desenvolvendo projetos como o **Examine AI**, uma plataforma de
 
 ---
 
-## 📌 Áreas de interesse
+## 📊 GitHub Status
 
-* Desenvolvimento Web
-* Backend
-* APIs
-* Banco de Dados
-* Análise de Dados
-* Inteligência Artificial aplicada
-* Automação
-* Cybersecurity
-* Sistemas educacionais
-* Projetos com Arduino
+![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanmiranda9310\&show_icons=true\&theme=tokyonight)
 
----
-
-## 📂 Projetos em destaque
-
-### Examine AI
-
-Plataforma de estudos para estudantes da área da saúde, com foco em aprendizado prático e interativo.
-
-Principais funcionalidades:
-
-* Paciente virtual com IA
-* Flashcards
-* Dashboard de estudos
-* Histórico de desempenho
-* Feed para compartilhamento de estudos
-* Sistema de login
-* Integração com backend
-* Uso de APIs
-* Recursos em tempo real com WebSocket
-* Uso de Redis para suporte a funcionalidades assíncronas e tempo real
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmiranda9310\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
 
-* GitHub: [@jonathanmiranda9310](https://github.com/jonathanmiranda9310)
-* LinkedIn: [Jonathan Miranda](https://www.linkedin.com/in/jonathan-miranda-30b82a327/)
-* Email: [jonathanmiranda9310@gmail.com](mailto:jonathanmiranda9310@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Miranda-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jonathan-miranda-30b82a327/)
+[![GitHub](https://img.shields.io/badge/GitHub-jonathanmiranda9310-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/jonathanmiranda9310)
+[![Email](https://img.shields.io/badge/Email-jonathanmiranda9310@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jonathanmiranda9310@gmail.com)
 
 ---
 
